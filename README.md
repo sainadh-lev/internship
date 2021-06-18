@@ -1,0 +1,2 @@
+# intership
+solved using postman
